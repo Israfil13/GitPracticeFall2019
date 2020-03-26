@@ -6,3 +6,4 @@ BMW X5
 Mercedes s550
 Lexus GX470
 Kia Optima
+Subaru WSX
